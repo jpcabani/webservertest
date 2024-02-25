@@ -1,3 +1,3 @@
-module github.com/jpcabani/webServerTest
+module github.com/jpcabani/webservertest
 
 go 1.18
